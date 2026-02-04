@@ -2,7 +2,7 @@
 
 Portfolio & Proofs by Anish Pariyar
 
-Website: https://yourusername.github.io/your-repo-name/
+Website: https://anish-axe.github.io/detils/
 
 Contact: anishpariyar1122@gmail.com | WhatsApp +977 9806167776
 
